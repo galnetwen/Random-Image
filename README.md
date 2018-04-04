@@ -49,7 +49,7 @@ Nginx 用户需要手动添加 nginx.conf 文件里面的伪静态规则到你�
 <img src="https://song.acg.sx/images/acg?9f0d34f8ee6f96b56d8902d1">
 ```
 
-项目演示：[https://song.acg.sx/images](https://song.acg.sx/images "")
+项目演示：[https://song.acg.sx/images](https://song.acg.sx/images "")  
 项目代码：[https://github.com/galnetwen/Random-Image](https://github.com/galnetwen/Random-Image "")
 
 该随机图代码由 [karnc](https://karnc.com/ "") 提供与帮助，谢谢他！
